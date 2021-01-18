@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.video{
+   justify-content: center;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+.Autobiografia{
+    float: center;
+}
+.Habilidades{
+    width: 45%;
+    height: 50px;
+    float: right;
+}
+.Blandas{
+    width: 45%;
+    height: 50px;
+    float: right;
+}
+.parrafo.habilidades{
+    float: left;
+    text-align: left;
+    float: left;
+}
+.parrafo.blandas{
+    float: right;
+    text-align: right;
+    float: right;
+}
+p{
+    color: white;
+    font-size: 18px;
+}
